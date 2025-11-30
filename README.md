@@ -1,2 +1,2 @@
-# wallmart-sales-analysis
-analysis of sales in wallmart
+# superstore sales
+analysis of sales in superstore
